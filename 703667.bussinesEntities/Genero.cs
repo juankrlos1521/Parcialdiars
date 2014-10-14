@@ -12,5 +12,7 @@ namespace _703667.bussinesEntities
         public string Descripcion { get; set; }
         public string Comentario { get; set; }
         public byte[] RowVersion { get; set; }
+
+        public List<Pelicula> PeliculasList { get; set; }
     }
 }

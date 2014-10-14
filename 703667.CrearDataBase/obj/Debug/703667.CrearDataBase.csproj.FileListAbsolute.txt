@@ -1,0 +1,16 @@
+C:\Users\Carlos\Documents\GitHub\Parcialdiars\703667.CrearDataBase\bin\Debug\703667.CrearDataBase.exe.config
+C:\Users\Carlos\Documents\GitHub\Parcialdiars\703667.CrearDataBase\bin\Debug\703667.CrearDataBase.exe
+C:\Users\Carlos\Documents\GitHub\Parcialdiars\703667.CrearDataBase\bin\Debug\703667.CrearDataBase.pdb
+C:\Users\Carlos\Documents\GitHub\Parcialdiars\703667.CrearDataBase\bin\Debug\703667.bussinesEntities.dll
+C:\Users\Carlos\Documents\GitHub\Parcialdiars\703667.CrearDataBase\bin\Debug\703667.Repository.dll
+C:\Users\Carlos\Documents\GitHub\Parcialdiars\703667.CrearDataBase\bin\Debug\EntityFramework.dll
+C:\Users\Carlos\Documents\GitHub\Parcialdiars\703667.CrearDataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos\Documents\GitHub\Parcialdiars\703667.CrearDataBase\bin\Debug\703667.bussinesEntities.pdb
+C:\Users\Carlos\Documents\GitHub\Parcialdiars\703667.CrearDataBase\bin\Debug\703667.Repository.pdb
+C:\Users\Carlos\Documents\GitHub\Parcialdiars\703667.CrearDataBase\bin\Debug\EntityFramework.xml
+C:\Users\Carlos\Documents\GitHub\Parcialdiars\703667.CrearDataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos\Documents\GitHub\Parcialdiars\703667.CrearDataBase\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Carlos\Documents\GitHub\Parcialdiars\703667.CrearDataBase\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Carlos\Documents\GitHub\Parcialdiars\703667.CrearDataBase\obj\Debug\703667.CrearDataBase.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\GitHub\Parcialdiars\703667.CrearDataBase\obj\Debug\703667.CrearDataBase.exe
+C:\Users\Carlos\Documents\GitHub\Parcialdiars\703667.CrearDataBase\obj\Debug\703667.CrearDataBase.pdb

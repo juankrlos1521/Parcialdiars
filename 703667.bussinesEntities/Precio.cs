@@ -13,7 +13,9 @@ namespace _703667.bussinesEntities
         public decimal Monto { get; set; }
         public bool Activo { get; set; }
         public string Comentario { get; set; }
-        public byte rowVersion { get; set; }
+        public byte[] rowVersion { get; set; }
         public int TipoPeliculaId { get; set; }
+
+        public TipoPelicula TipoPelicula { get; set; }
     }
 }

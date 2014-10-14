@@ -18,9 +18,16 @@ namespace _703667.bussinesEntities
         public string Actores { get; set; }
         public string SitioWeb { get; set; }
         public bool Activo { get; set; }
-        public byte RowVersion { get; set; }
+        public byte[] RowVersion { get; set; }
+
+
         public int ClasificacionId { get; set; }
         public int GeneroId { get; set; }
         public int TipoPeliculaId { get; set; }
+
+
+        public Clasificacion Clasificacion { get; set; }
+        public Genero Genero { get; set; }
+        public TipoPelicula TipoPelicula { get; set; }
     }
 }
